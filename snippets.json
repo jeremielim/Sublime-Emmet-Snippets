@@ -1,9 +1,7 @@
 {
 	"html": {
-		"filters": "html",
-		"profile": "html",
-		"snippets": {
-		    "example": "sklajd"
+		"abbreviations": {
+		   "ulist": "ul.list>li.-item*3"
 		}
 	}
 }

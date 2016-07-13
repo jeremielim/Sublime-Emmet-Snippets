@@ -1,12 +1,7 @@
 {
-  "syntaxProfiles": {
-    "html" : {
-      "filters" : "html, bem"
-    }
-  },
   "preferences": {
     "bem.elementSeparator":"__",
     "bem.modifierSeparator":"--",
-    "bem.shortElementPrefix":"-"
+    "bem.shortElementPrefix":"_"
   }
 }

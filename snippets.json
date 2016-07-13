@@ -1,7 +1,7 @@
 {
 	"html": {
 		"abbreviations": {
-		   "ulist": "ul.list>li.-item*3"
+		   "ulist": "ul.list>li.list__item*3"
 		}
 	},
 
